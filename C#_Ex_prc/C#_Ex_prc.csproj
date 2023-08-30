@@ -73,11 +73,31 @@
   <ItemGroup>
     <Compile Include="Ex_prc_2.cs" />
     <Compile Include="Prc_Exe_1.cs" />
+    <Compile Include="Prc_Exe_10.cs" />
+    <Compile Include="Prc_Exe_11.cs" />
+    <Compile Include="Prc_Exe_12.cs" />
+    <Compile Include="Prc_Exe_13.cs" />
+    <Compile Include="Prc_Exe_14.cs" />
+    <Compile Include="Prc_Exe_15.cs" />
+    <Compile Include="Prc_Exe_16.cs" />
+    <Compile Include="Prc_Exe_17.cs" />
+    <Compile Include="Prc_Exe_18.cs" />
+    <Compile Include="Prc_Exe_19.cs" />
+    <Compile Include="Prc_Exe_20.cs" />
+    <Compile Include="Prc_Exe_21.cs" />
+    <Compile Include="Prc_Exe_22.cs" />
+    <Compile Include="Prc_Exe_23.cs" />
+    <Compile Include="Prc_Exe_24.cs" />
+    <Compile Include="Prc_Exe_25.cs" />
+    <Compile Include="Prc_Exe_26.cs" />
+    <Compile Include="Prc_Exe_27.cs" />
     <Compile Include="Prc_Exe_3.cs" />
     <Compile Include="Prc_Exe_4.cs" />
     <Compile Include="Prc_Exe_5.cs" />
     <Compile Include="Prc_exe_6.cs" />
     <Compile Include="Prc_Exe_7.cs" />
+    <Compile Include="Prc_Exe_8.cs" />
+    <Compile Include="Prc_Exe_9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
