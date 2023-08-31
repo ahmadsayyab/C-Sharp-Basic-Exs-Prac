@@ -11,8 +11,8 @@ namespace C__Ex_prc
         public void Check()
         {
             string confirm;
-            //bool result;
-            string result;
+            bool result;
+            
 
             do
             {
@@ -22,7 +22,7 @@ namespace C__Ex_prc
                 int num2 = int.Parse(Console.ReadLine());
 
 
-            result = ((num1 == 30) || (num2 == 30) || (num1 + num2 == 30)) ? "true" : "false";
+            result = ((num1 == 30) || (num2 == 30) || (num1 + num2 == 30)) ? true : false;
 
 
                 Console.WriteLine(result);

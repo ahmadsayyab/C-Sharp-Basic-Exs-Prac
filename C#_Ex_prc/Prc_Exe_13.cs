@@ -11,7 +11,7 @@ namespace C__Ex_prc
         public void CheckInput()
         {
             string confirm;
-            string result;
+            bool result;
 
 
 
@@ -23,7 +23,7 @@ namespace C__Ex_prc
                 int tempValue2 = int.Parse(Console.ReadLine());
 
 
-                result = ((tempValue1 < 0 || tempValue2 < 0) && (tempValue1 > 100 || tempValue2 > 100)) ? "true" : "false";
+                result = ((tempValue1 < 0 || tempValue2 < 0) && (tempValue1 > 100 || tempValue2 > 100)) ? true : false;
 
                 Console.WriteLine(result);
                 

@@ -11,7 +11,7 @@ namespace C__Ex_prc
         public void CheckForValue()
         {
             string confirm;
-            string result;
+            bool result;
 
             int num1 = 100;
             int num2 = 200;
@@ -21,7 +21,7 @@ namespace C__Ex_prc
                 Console.WriteLine("Enter a number ");
                 int n = int.Parse(Console.ReadLine());
 
-                result = (Math.Abs(n - num1) <= 10 || Math.Abs(n - num2) <= 10) ? "true" : "false";
+                result = (Math.Abs(n - num1) <= 10 || Math.Abs(n - num2) <= 10) ? true : false;
                 Console.WriteLine(result);
 
 

@@ -11,7 +11,7 @@ namespace C__Ex_prc
         public void CheckInput()
         {
             string confirm;
-            string result;
+            bool result;
 
 
 
@@ -25,7 +25,7 @@ namespace C__Ex_prc
                 int num3 = int.Parse(Console.ReadLine());
 
 
-                result = ((num1 >= 20 && num1 <= 50) || (num2 >= 20 && num2 <= 50) || (num3 >= 20 && num3 <= 50)) ? "true" : "false";
+                result = ((num1 >= 20 && num1 <= 50) || (num2 >= 20 && num2 <= 50) || (num3 >= 20 && num3 <= 50)) ? true : false;
 
                 Console.WriteLine(result);
 

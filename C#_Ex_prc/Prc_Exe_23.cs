@@ -11,7 +11,7 @@ namespace C__Ex_prc
         public void CheckInput()
         {
             string confirm;
-            string result;
+            bool result;
 
 
 
@@ -25,7 +25,7 @@ namespace C__Ex_prc
                 int lastdigitNum1 = num1 % 10;
                 int lastdigitNum2 = num2 % 10;
 
-                result = (lastdigitNum1 == lastdigitNum2) ? "true" : "false";
+                result = (lastdigitNum1 == lastdigitNum2) ? true : false;
                 Console.WriteLine(result);
 
 

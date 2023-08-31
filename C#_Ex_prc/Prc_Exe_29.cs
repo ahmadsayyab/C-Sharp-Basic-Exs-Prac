@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace C__Ex_prc
 {
-    internal class Prc_Exe_22
+    internal class Prc_Exe_29
     {
-        public void CheckInput()
+        public void ModifyString()
         {
             string confirm;
-            bool result;
+
 
 
 
@@ -21,21 +21,33 @@ namespace C__Ex_prc
                 string inputstring = (Console.ReadLine());
 
 
-                int count = 0;
-                for (int i = 0; i < inputstring.Length; i++)
+
+                char firstChar = inputstring[0];
+
+                for (var i = 0; i <= inputstring.Length-1; i++)
                 {
-                    if (inputstring[i] == 'z')
+                    if(i % 2 != 0)
                     {
-                        count++;
+
+                        continue;
                     }
+                    else
+                    {
+                        Console.Write(inputstring[i]);
+                    }
+
+                     
+                    
+
+
                 }
 
-                result = (count > 1 && count <= 4) ? true : false;
-
-                Console.WriteLine(result);
 
 
-                Console.WriteLine("Do you want to contineue ? type yes or No");
+
+
+
+                Console.WriteLine("\nDo you want to contineue ? type yes or No");
                 confirm = Console.ReadLine().ToLower();
 
 

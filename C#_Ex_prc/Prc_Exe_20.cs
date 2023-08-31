@@ -11,7 +11,7 @@ namespace C__Ex_prc
         public void CheckInput()
         {
             string confirm;
-            string result;
+            bool result;
 
 
 
@@ -24,8 +24,8 @@ namespace C__Ex_prc
                 int num2 = int.Parse(Console.ReadLine());
                 
 
-                
-                result = ((num1 >= 40 && num1 <= 60) && (num2 >= 40 && num2 <= 60)) ? "true" : "false";
+               
+                result = ((num1 >= 40 && num1 <= 60) && (num2 >= 40 && num2 <= 60)) ? true : false;
                 Console.WriteLine(result);
 
 
