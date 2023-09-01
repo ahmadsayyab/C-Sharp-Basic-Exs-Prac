@@ -236,10 +236,328 @@ namespace C__Ex_prc
 
 
             //Exercise 44
-            Console.WriteLine("Enter a number");
-            int num = Math.Abs(int.Parse(Console.ReadLine()));
-            bool result = Prc_Exe_44.CheckInputs(num);
+            //Console.WriteLine("Enter a number");
+            //int num = Math.Abs(int.Parse(Console.ReadLine()));
+            //bool result = Prc_Exe_44.CheckInputs(num);
+            //Console.WriteLine(result);
+
+
+            //Exercise 45
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_45.CheckInputs(num1, num2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 46
+
+            //string result = Prc_Exe_46.ModifyString();
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 47
+            //Prc_Exe_47.CheckInputs();
+
+            //Exercise 48
+            // Prc_Exe_48.CheckInputs();
+
+            //Exercise 49
+            //Console.WriteLine("Enter num1");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter num2");
+            //int num2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter num3");
+            //int num3 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Set bool value true or false");
+            //bool boolVal = bool.Parse(Console.ReadLine());
+            //bool result = Prc_Exe_49.CheckInputs(num1,num2,num3,boolVal);
+            //Console.WriteLine(result);
+
+
+
+
+            //Exercise 50
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num3");
+            //int num3 = Math.Abs(int.Parse(Console.ReadLine()));
+            //bool result = Prc_Exe_50.CheckInputs(num1,num2,num3);
+            //Console.WriteLine(result);
+
+
+            //Exercise 51
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num3");
+            //int num3 = Math.Abs(int.Parse(Console.ReadLine()));
+            //bool result = Prc_Exe_51.CheckInputs(num1,num2,num3);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 52
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_52.CheckInputs(num1,num2);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 53
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //bool result = Prc_Exe_53.CheckInputs(num1,num2);
+            //Console.WriteLine(result);
+
+
+            ////Exercise 54
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_54.CheckInputs(num1,num2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 55
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num3");
+            //int num3 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_55.CheckInputs(num1, num2, num3);
+            //Console.WriteLine(result);
+
+
+            //Exercise 56
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num3");
+            //int num3 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_56.CheckInputs(num1, num2, num3);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 57
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num3");
+            //int num3 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_57.CheckInputs(num1, num2, num3);
+            //Console.WriteLine(result);
+
+
+            ////Exercise 58
+            //Console.WriteLine("Enter num1");
+            //int num1 = Math.Abs(int.Parse(Console.ReadLine()));
+            //Console.WriteLine("Enter num2");
+            //int num2 = Math.Abs(int.Parse(Console.ReadLine()));
+            //int result = Prc_Exe_58.CheckInputs(num1, num2);
+            //Console.WriteLine(result);
+
+            //Exercise 59
+            //Console.WriteLine("Enter num1");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter num2");
+            //int num2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter num3");
+            //int num3 = int.Parse(Console.ReadLine());
+            //bool result = Prc_Exe_59.CheckInputs(num1, num2, num3);
+            //Console.WriteLine(result);
+
+
+            //Exercise 60
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine();
+            //string result = Prc_Exe_60.ModifyString(str1 , str2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 61
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine();
+            //string result = Prc_Exe_61.ModifyString(str1 , str2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 62
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_62.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 63
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_63.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 64
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_64.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 65
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_65.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 66
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine();
+            //string result = Prc_Exe_66.ModifyString(str1, str2);
+            //Console.WriteLine(result);
+
+            //Exercise 67
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine();
+            //string result = Prc_Exe_67.ModifyString(str1, str2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 68
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_68.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 69
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_69.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 70
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_70.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 71
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_71.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 72
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //bool result = Prc_Exe_72.ModifyString(str1);
+            //Console.WriteLine(result);
+
+            //Exercise 73
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("How many characters you want to use from start and end");
+            //int num = int.Parse(Console.ReadLine());
+            //string result = Prc_Exe_73.ModifyString(str1, num);
+            //Console.WriteLine(result);
+
+
+            //Exercise 74
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("From which index you want to start your new index");
+            //int num = int.Parse(Console.ReadLine());
+            //string result = Prc_Exe_74.ModifyString(str1, num);
+            //Console.WriteLine(result);
+
+
+            //Exercise 75
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_75.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 76
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_76.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 77
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine();
+            //string result = Prc_Exe_77.ModifyString(str1,str2);
+            //Console.WriteLine(result);
+
+             //Exercise 78
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine().ToLower();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine().ToLower();
+            //string result = Prc_Exe_78.ModifyString(str1,str2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 79
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_79.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 80
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_80.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 81
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //bool result = Prc_Exe_81.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 82
+            Console.WriteLine("Create string1");
+            string str1 = Console.ReadLine();
+            Console.WriteLine("Create string2");
+            string str2 = Console.ReadLine();
+            string result = Prc_Exe_82.ModifyString(str1,str2);
             Console.WriteLine(result);
+
 
 
 
