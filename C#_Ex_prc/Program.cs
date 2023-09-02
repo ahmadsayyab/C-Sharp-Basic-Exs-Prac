@@ -520,7 +520,7 @@ namespace C__Ex_prc
             //string result = Prc_Exe_77.ModifyString(str1,str2);
             //Console.WriteLine(result);
 
-             //Exercise 78
+            //Exercise 78
             //Console.WriteLine("Create string1");
             //string str1 = Console.ReadLine().ToLower();
             //Console.WriteLine("Create string2");
@@ -551,12 +551,316 @@ namespace C__Ex_prc
 
 
             //Exercise 82
-            Console.WriteLine("Create string1");
-            string str1 = Console.ReadLine();
-            Console.WriteLine("Create string2");
-            string str2 = Console.ReadLine();
-            string result = Prc_Exe_82.ModifyString(str1,str2);
+            //Console.WriteLine("Create string1");
+            //string str1 = Console.ReadLine();
+            //Console.WriteLine("Create string2");
+            //string str2 = Console.ReadLine();
+            //string result = Prc_Exe_82.ModifyString(str1,str2);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 83
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_83.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 84
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_84.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 85
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_85.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 86
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_86.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 87
+            //Console.WriteLine("Create string");
+            //string str1 = Console.ReadLine();
+            //string result = Prc_Exe_87.ModifyString(str1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 88
+            //int[] arr = { 10, 20, 40, 50 };
+            ////int[] arr = { 5, 20, 40, 10 };
+            ////int[] arr = { 10, 20, 40, 10 };
+            ////int[] arr = { 12, 24, 35, 55 };
+            //bool result = Prc_Exe_88.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 89
+            //int[] arr = { 10, 20, 40, 50 };
+            //int[] arr = { 10, 20, 40, 10 };
+            //int[] arr = { 12, 24, 35, 55 };
+            //bool result = Prc_Exe_89.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 90
+            //int[] arr1 = { 10, 20, 40, 50 };
+            //int[] arr2 = { 10, 20, 40, 50 };
+            //int[] arr1 = { 10, 20, 40, 50 };
+            //int[] arr2 = { 10, 20, 40, 5 };
+            //int[] arr1 = { 10, 20, 40, 50 };
+            //int[] arr2 = { 1, 20, 40, 5 };
+
+            //bool result = Prc_Exe_90.CheckInput(arr1,arr2);
+            //Console.WriteLine(result);
+
+
+            //Exercise 91
+            //int[] arr = { 10, 20, 30, 40, 50 };
+            //int[] arr = { 10, 20, -30, -40, 50 };
+            //int result = Prc_Exe_91.SumArrElements(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 92
+            //int[] arr = { 10, 20, 30, 40, 50 };
+            //int[] arr = { 10, 20, -30, -40 };
+            //int[] result = Prc_Exe_92.RotateArrElements(arr);
+            //foreach (int i in result)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+            //Exercise 93
+            //int[] arr = { 10, 20, 30, 40, 50 };
+            //int[] arr = { 10, 20, -30, -40, 50 };
+            //Prc_Exe_93.ReverseArrElements(arr);
+
+
+            //Exercise 94
+            //int[] arr = { 10, 20, 30, 40 };
+            ////int[] arr = { 10, 20, -30, -40 };
+            //Prc_Exe_94.FindMaxNumInArrElements(arr);
+
+
+
+            //Exercise 95
+            //int[] arr1 = { 10, 20, -50, -40, 30 };
+            //int[] arr2 = { 10, 20, 70, 40, 30 };
+            //Prc_Exe_95.FindMidArrElements(arr1, arr2);
+
+
+            //Exercise 96
+            //int[] arr1 = { 10, 20, -30, -40, 30 };
+            //int[] arr1 = { 10, 20, 70, 40, 50 };
+            //Prc_Exe_96.FirstANdLastElements(arr1);
+
+
+
+            //Exercise 97
+
+            //int[] arr = { 12, 20 };
+            //int[] arr = { 14, 15 };
+            //int[] arr = { 11, 21 };
+            //bool result = Prc_Exe_97.FindElements(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 98
+
+            //int[] arr = { 12, 20 };
+            //int[] arr = { 14, 15 };
+            //int[] arr = { 11, 21 };
+            //bool result = Prc_Exe_98.FindElements(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 99
+            //int[] arr = { 12, 20 };
+            //int[] arr = { 14, 15 };
+            //int[] arr = { 11, 20, -30, -40, 30 };
+            //Prc_Exe_99.CreateNewArr(arr);
+
+
+
+            //Exercise 100
+            //int[] arr = { 12, 20 };
+            //int[] arr = { 20, 20 };
+            //int[] arr = { 10, 10 };
+            //int[] arr = { 10};
+            //bool result = Prc_Exe_100.FindElements(arr);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 101
+            //int[] arr = {5, 7, 8};
+            //Prc_Exe_101.ModifyArr(arr);
+
+            //Exercise 102
+            //int[] arr1 = { 10, 20, -30 };
+            //int[] arr2 = { 10, 20, 30 };
+            //Prx_Exe_102.FindLargestArr(arr1,arr2);
+
+
+
+            //Exercise 103
+            //int[] arr1 = { 1, 5, 7, 9, 11, 13 };
+            ////int[] arr2 = { 10, 20, 30 };
+            //Prc_Exe_103.FindNewArr(arr1);
+
+
+            //Exercise 104
+            //int[] arr1 = { 10, 20, 30 };
+            //int[] arr2 = { 40, 50, 60 };
+            //Prc_Exe_104.CreateNewArr(arr1, arr2);
+
+
+            //Exercise 105
+            //int[] arr1 = { 1, 5, 7, 9, 11, 13 };
+            ////int[] arr2 = { 40, 50, 60 };
+            //Prc_Exe_105.SwapElements(arr1);
+
+
+
+            //Exercise 106
+            //int[] arr1 = { 1, 5, 7, 9, 11, 13 };
+            ////int[] arr2 = { 40, 50, 60 };
+            //Prc_Exe_106.CreateNewArr(arr1);
+
+
+
+            //Exercise 107
+            //int[] arr1 = { 1 };
+            //int[] arr1 = { 1, 2, 9 };
+            //int[] arr1 = {1,2,9,3,3};
+            //int[] arr1 = { 1, 2, 3, 4, 5, 6, 7 };
+            //int[] arr1 = { 1, 2, 2, 3, 7, 8, 9, 10, 6, 5, 4 };
+            //Prc_Exe_107.FindLargestElement(arr1);
+
+
+            //Exercise 108
+            //int[] arr1 = { 1, 5, 7, 9, 11, 13 };
+            //int[] arr1 = {1,2,9,3,3};
+            //int[] arr1 = { 1, 2 };
+            //int[] arr1 = { 1 };
+            //int[] arr = Prc_Exe_108.CreatNewArr(arr1);
+            //foreach (int i in arr)
+            //{
+            //    Console.Write(i+ " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+            //Exercise 109
+            //int[] arr1 = { 1, 5, 7, 9, 11, 13 };
+            //int[] arr1 = { 1, 5, 7, 9, 10, 12 };
+            ////int[] arr1 = { 1, 2 };
+            ////int[] arr1 = { 1 };
+            //int result = Prc_Exe_109.CountEvenNum(arr1);
+            //Console.WriteLine(result);
+
+
+            //Exercise 110
+            //int[] arr1 = { 1, 5, 7, 9, 11, 13 };
+            //int[] arr1 = { 1, 5, 7, 9, 10, 12 };
+            //int[] arr1 = { 1, 2 };
+            //int[] arr1 = { 1 };
+            //int result = Prc_Exe_110.FindDiff(arr1);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 111
+            //int[] arr1 = { 1, 5, 7, 9, 10, 17 };
+            //int[] arr1 = { 1, 5, 17, 9, 10, 12 };
+            //int[] arr1 = { 1, 2 };
+            //int[] arr1 = { 1 };
+            //int result = Prc_Exe_111.AddElements(arr1);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 112
+            //int[] arr1 = { 5, 6, 1, 5, 6, 9, 10, 17, 5, 6 };
+            //int[] arr1 = { 5, 6, 1, 5, 6, 9, 10, 17 };
+            //int[] arr1 = { 1, 5, 6, 9, 10, 17, 5, 6 };
+            //int[] arr1 = { 1, 5, 9, 10, 17, 5, 6 };
+            //int[] arr1 = { 1, 5, 9, 10, 17, 5 };
+            //int result = Prc_Exe_112.AddElements(arr1);
+            //Console.WriteLine(result);
+
+
+
+            //Exercise 113
+            //int[] arr = { 1, 5, 6, 9, 10, 17 };
+            //int[] arr = { 1, 5, 5, 9, 10, 17 };
+            //int[] arr = { 1, 5, 5, 9, 10, 17, 5, 5 };
+            //int[] arr = { 10};
+            //bool result = Prc_Exe_113.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 114
+            //int[] arr = { 1, 5, 6, 9, 10, 17 };
+            //int[] arr = { 1, 4, 7, 9, 10, 17 };
+            //int[] arr = { 1, 1, 2, 9, 10, 17};
+            //int[] arr = { 10};
+            //bool result = Prc_Exe_114.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 115
+            //int[] arr = { 1, 5, 6, 9, 10, 17 };
+            //int[] arr = { 1, 5, 5, 5, 10, 17 };
+            //int[] arr = { 1, 1, 5, 5, 5, 5};
+            //int[] arr = { 10};
+            //bool result = Prc_Exe_115.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 116
+            //int[] arr = { 1, 5, 6, 9, 3, 3 };
+            //int[] arr = { 1, 5, 5, 5, 10, 17 };
+            //int[] arr = { 1, 3, 3, 5, 5, 5};
+            //int[] arr = { 10};
+            //bool result = Prc_Exe_116.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+            //Exercise 117
+            //int[] arr = { 5, 5, 5, 5, 5 };
+            //int[] arr = { 3, 3, 3, 3 };
+            //int[] arr = { 3, 3, 3, 5, 5, 5};
+            //int[] arr = { 1, 6, 8, 10 };
+            //bool result = Prc_Exe_117.CheckInput(arr);
+            //Console.WriteLine(result);
+
+
+             //Exercise 118
+            int[] arr = { 5, 5, 5, 5, 5 };
+            //int[] arr = { 3, 3, 3, 3 };
+            //int[] arr = { 3, 3, 3, 5, 5, 5};
+            //int[] arr = { 1, 6, 8, 10 };
+            bool result = Prc_Exe_118.CheckInput(arr);
             Console.WriteLine(result);
+
+
+
+
 
 
 
