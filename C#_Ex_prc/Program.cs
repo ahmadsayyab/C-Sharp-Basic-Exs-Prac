@@ -1111,11 +1111,132 @@ namespace C__Ex_prc
 
 
             //Exercise 140
-            int[] arr = {1,2,3,5,7,9,10};
-            Console.WriteLine("Enter the length of an array you want to create");
-            int len = int.Parse(Console.ReadLine());
-            int[] result = Prc_Exe_140.CreateNewArr(arr, len);
-            foreach (int i in result)
+            //int[] arr = {1,2,3,5,7,9,10};
+            //Console.WriteLine("Enter the length of an array you want to create");
+            //int len = int.Parse(Console.ReadLine());
+            //int[] result = Prc_Exe_140.CreateNewArr(arr, len);
+            //foreach (int i in result)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+
+            //Exercise 141
+            //List<int> myList = new List<int>() { 1, 2, 3, 4 };
+            //List<int> myListResult = Prc_Exe_141.CreateNewList(myList);
+
+            //foreach (int i in myListResult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+
+            //Exercise 142
+            //List<int> myList = new List<int>() { 1, 2, 3, 4 };
+            //List<int> myListResult = Prc_Exe_142.CreateNewList(myList);
+
+            //foreach (int i in myListResult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+            //Exercise 143
+            //List<string> myList = new List<string>() { "1", "2", "3", "4" };
+            //List<string> myListResult = Prc_Exe_143.CreateNewList(myList);
+
+            //foreach (string i in myListResult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+            //Exercise 144
+            //List<string> myList = new List<string>() { "1", "2", "3", "4" };
+            //List<string> myListResult = Prc_Exe_144.CreateNewList(myList);
+
+            //foreach (string i in myListResult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+            //Exercise 145
+            //List<int> myList = new List<int>() { 1, 2, 3, 4 };
+            //List<int> myListResult = Prc_Exe_145.CreateNewList(myList);
+
+            //foreach (int i in myListResult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+
+            //Exercise 146
+            //List<int> myList = new List<int>() { 10, 22, 35, 41 };
+            //List<int> myList = new List<int>() { 12, 25, 37, 49 };
+            //List<int> myListResult = Prc_Exe_146.CreateNewList(myList);
+
+            //foreach (int i in myListResult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+            //Exercise 147
+            //List<string> mylist = new List<string>() { "Abc", "cdef", "js", "php" };
+            //List<string> mylistresult = Prc_Exe_147.CreateNewList(mylist);
+
+            //foreach (string i in mylistresult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+            //Exercise 148
+            //List<string> mylist = new List<string>() { "abc", "cdaef", "js", "php" };
+            //List<string> mylistresult = Prc_Exe_148.CreateNewList(mylist);
+
+            //foreach (string i in mylistresult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+            //Exercise 149
+            //List<int> mylist = new List<int>() { 0, -2, 1, 2, 3, 5, 4, 7, 8 };
+            //List<int> mylistresult = Prc_Exe_149.CreateNewList(mylist);
+
+            //foreach (int i in mylistresult)
+            //{
+            //    Console.Write(i + " ");
+            //}
+            //Console.WriteLine("\n");
+
+
+
+            //Exercise 150
+            List<int> mylist = new List<int>() { 10, 22, 35, 47, 53, 67 };
+            List<int> mylistresult = Prc_Exe_150.CreateNewList(mylist);
+
+            foreach (int i in mylistresult)
             {
                 Console.Write(i + " ");
             }
